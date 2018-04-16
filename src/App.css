@@ -1,0 +1,41 @@
+.inputSet{
+  padding: 0;
+}
+.inputSet Input{
+  margin: 1%;
+  padding: 10px;
+  width: 100%;
+}
+.CalCOntiner{
+  margin-top: 25vh;
+}
+.DisplayNormal{
+  height: 55px;
+  margin: 1%;
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 98%;
+  text-align: end;
+  border: #7fbdff 0.1em solid;
+}
+.FooterCol{
+  text-align: center;
+  bottom: -30vh;
+}
+.DisplayNormal_Error{
+  height: 55px;
+  margin: 1%;
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 98%;
+  text-align: end;
+  border: #ff7f8b 0.1em solid;
+}
+
+.button_set Button{
+  margin: 1%;
+  width: 23%;
+}
+
